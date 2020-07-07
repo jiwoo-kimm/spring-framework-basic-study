@@ -2,6 +2,7 @@
 
 ## 소개
 
+![LectureImage](https://tacademy.skplanet.com/upload/201710/88.jpg)<br>
 [T아카데미 - Spring Framework 강의](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=88) 스터디
 
 ## 개발환경
