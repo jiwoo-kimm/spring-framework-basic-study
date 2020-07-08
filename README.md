@@ -16,7 +16,8 @@
 
 ## 목차
 
-* 1강 | [Framework 개념](./Lecture%20Note/Lec-01-Framework%20%EA%B0%9C%EB%85%90.md)<br>
+* 1강 | [Framework 개념](./Lecture%20Note/Lec-01-Framework%20개념.md)<br>
 * 2강 | 환경설정<br>
-* 3강 | [Spring Framework 개요](./Lecture%20Note/Lec-03-Spring%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B0%9C%EC%9A%94.md)<br>
-* 4강 | [Spring 프로젝트 시작하기](./Lecture%20Note/Lec-04-Spring%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+* 3강 | [Spring Framework 개요](./Lecture%20Note/Lec-03-Spring%20프레임워크%20개요.md)<br>
+* 4강 | [Spring 프로젝트 시작하기](./Lecture%20Note/Lec-04-Spring%20프로젝트%20시작하기.md)<br>
+* 5강 | [IoC 컨테이너와 DI](./Lecture%20Note/Lec-05-IoC%20컨테이너와%20DI.md)
