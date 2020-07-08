@@ -21,3 +21,6 @@
 * 3강 | [Spring Framework 개요](./Lecture%20Note/Lec-03-Spring%20프레임워크%20개요.md)<br>
 * 4강 | [Spring 프로젝트 시작하기](./Lecture%20Note/Lec-04-Spring%20프로젝트%20시작하기.md)<br>
 * 5강 | [IoC 컨테이너와 DI](./Lecture%20Note/Lec-05-IoC%20컨테이너와%20DI.md)
+* 6강 | DI 애플리케이션 작성 (1)
+* 7강 | DI 애플리케이션 작성 (2)
+
