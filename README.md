@@ -10,6 +10,7 @@
 * JDK 1.8.0
 * Spring Tool Suite 4.7.0
 * Spring Tools Add-On for Spring Tools 4 3.9.13
+* Spring 4.3.7
 * Tomcat 8.0.36
 * MySQL Server 8.0
 * Eclipse 2019-12
