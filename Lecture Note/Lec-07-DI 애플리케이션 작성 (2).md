@@ -23,3 +23,13 @@ ex) assertEquals(예상값, 실제값)
 3) `assertSame(a,b)` : 두 객체의 레퍼런스 비교
 4) `assertTrue(a)` : 조건 A가 참인가
 5) `assertNotNull(a)` : 조건 A가 null이 아닌가
+
+
+## Spring-Test
+
+#### Annotation
+1) `@RunWith(SpringJUnit4ClassRunner.class)`
+* jUnit 테스트 실행방법 확장
+* 테스트 진행 중 ApplicationContext 생성 및 싱글톤 관리
+2) `@ContextConfiguration` : Bean 설정 파일 위치 지정
+3) `@Autowired` : 변수가 자동으로 Bean 매핑 -> `GenericXmlApplicationContext` 불필요
