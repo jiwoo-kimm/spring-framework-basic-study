@@ -20,6 +20,6 @@
 3) Method Injection : 일반 메소드에서 의존성 입력
 
 #### 클래스 호출방식
-![DI_01](./Images/Lec05_DI_01.png)
+![DI_01](https://github.com/jiwoo-kimm/spring-framework-basic-study/blob/master/Images/Lec05_DI_01.png)
 
 ## Spring DI 컨테이너
