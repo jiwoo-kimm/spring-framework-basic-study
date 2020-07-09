@@ -2,6 +2,7 @@
 .project
 .springBeans
 
-target/
-bin/
+.metadata/
 .settings/
+bin/
+target/
