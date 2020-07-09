@@ -6,7 +6,7 @@
 
 ## Property 값 설정
 * `<property>` 태그의 value 속성
-* `<list>`, `<set>`, `<map>` 태그
+* `<list>`, `<set>`, `<map>` 태그 for Collections 타입
 
 ## Property 파일을 이용한 값 설정
 * `<context:property-placeholder location="" />`
