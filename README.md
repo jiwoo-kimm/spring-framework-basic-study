@@ -26,3 +26,5 @@
 * 7강 | [DI 애플리케이션 작성 (2)](./Lecture%20Note/Lec-07-DI%20애플리케이션%20작성%20(2).md)
 * 8강 | [DI 애플리케이션 작성 (3)](./Lecture%20Note/Lec-08-DI%20애플리케이션%20작성%20(3).md)
 * 9강 | [DI 애플리케이션 작성 (4)](./Lecture%20Note/Lec-09-DI%20애플리케이션%20작성%20(4).md)
+* 10강 | [사용자관리 프로젝트](./Lecture%20Note/Lec-10-사용자관리%20프로젝트.md)
+* 11강 | [Spring JDBC 개요](./Lecture%20Note/Lec-11-Spring%20JDBC%20개요.md)
