@@ -40,9 +40,9 @@
   * 서비스 계층에 속한 상위 인터페이스
 
 - `UserServiceImpl` 클래스
- * `UserService` 구현 클래스
- * 복잡한 업무 로직 구현
- * 데이터 액세스 계층의 `UserDao` 인터페이스를 구현한 객체를 `@Autowired`로 주입
+  * `UserService` 구현 클래스
+  * 복잡한 업무 로직 구현
+  * 데이터 액세스 계층의 `UserDao` 인터페이스를 구현한 객체를 `@Autowired`로 주입
 
 #### 3) Data Access Layer
 - `UserDao` 인터페이스
