@@ -38,10 +38,19 @@ public class UserClient {
 
 	@Test
 	@Ignore
-	public void getUserTest() {
+	public void getUserTestXML() {
+		UserService service = context.getBean(UserService.class);
 		UserVO user = service.getUser("gildong");
 		System.out.println(user);
-		assertEquals("È«±æµ¿", user.getName());
+		assertEquals("È«±æµ¿2", user.getName());
+	}
+	
+	@Test
+	@Ignore
+	public void getUserTestAnnot() {
+		UserVO user = service.getUser("gildong");
+		System.out.println(user);
+		assertEquals("È«±æµ¿2", user.getName());
 	}
 
 	@Test
@@ -55,11 +64,10 @@ public class UserClient {
 	}
 	
 	@Test
-	@Ignore
 	public void updateUserTest() {
-		service.updateUser(new UserVO("dooly", "±èµÑ¸®", "¿©", "°æ±â"));
+		service.updateUser(new UserVO("gildong", "È«±æµ¿", "¿©", "´ëÀü"));
 
-		UserVO user = service.getUser("dooly");
+		UserVO user = service.getUser("gildong");
 		System.out.println(user);
 	}
 
