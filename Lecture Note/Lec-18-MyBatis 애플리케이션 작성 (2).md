@@ -26,3 +26,10 @@ session.selectOne("userNS.selectUserById", userid);
 ```java
 session.selectOne(userMapper.selectUserById(userid));
 ```
+
+
+## 다중 Mapper 설정
+
+#### `MapperScannerConfigurer`
+* 여러 개의 Mapper 인터페이스를 정의하는 것은 비효율적
+* Mapper 인터페이스의 객체를 하나의 패키지에 모아 `MapperScannerConfigurer`에 등록
