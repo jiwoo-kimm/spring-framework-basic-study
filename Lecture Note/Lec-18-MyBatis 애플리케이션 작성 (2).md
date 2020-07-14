@@ -2,7 +2,7 @@
 
 ## Mapper
 
-* Mapper 인터페이스 사용하지 않았을 때<br>
+#### Mapper 인터페이스 사용하지 않았을 때<br>
 : `SqlSession`에 문자열로 `네임스페이스+"."+SQL ID` 지정
 
 ```xml
@@ -15,7 +15,7 @@ session.selectOne("userNS.selectUserById", userid);
 ```
 
 
-* Mapper 인터페이스 사용했을 때<br>
+#### Mapper 인터페이스 사용했을 때<br>
 : 개발자가 작성한 `userMapper.메소드(인자)` 호출
 
 ```xml
