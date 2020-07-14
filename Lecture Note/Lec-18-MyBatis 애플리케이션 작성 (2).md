@@ -33,3 +33,4 @@ session.selectOne(userMapper.selectUserById(userid));
 #### `MapperScannerConfigurer`
 * 여러 개의 Mapper 인터페이스를 정의하는 것은 비효율적
 * Mapper 인터페이스의 객체를 하나의 패키지에 모아 `MapperScannerConfigurer`에 등록
+* Mapper가 아닌 인터페이스도 등록되지 않도록 `Marker` 인터페이스 & Annotation 사용
