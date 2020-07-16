@@ -12,15 +12,14 @@
 	<!-- MapperScannerconfigurer 설정 -->
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
 		<property name="basePackage" value="myspring.user.dao" />
-		<property name="annotationClass" value="myspring.user.dao.MyMapper" />
+		<property name="annotationClass"
+			value="myspring.user.dao.MyMapper" />
 	</bean>
 
-	<!-- Mapper 설정 -->	
-<!-- 	<bean id="userMapper"
-		class="org.mybatis.spring.mapper.MapperFactoryBean">
-		<property name="mapperInterface" value="myspring.user.dao.UserMapper" />
-		<property name="sqlSessionTemplate" ref="sqlSession" />
-	</bean> -->
+	<!-- Mapper 설정 -->
+	<!-- <bean id="userMapper" class="org.mybatis.spring.mapper.MapperFactoryBean"> 
+		<property name="mapperInterface" value="myspring.user.dao.UserMapper" /> 
+		<property name="sqlSessionTemplate" ref="sqlSession" /> </bean> -->
 
 	<!-- mybatis-spring 설정 -->
 	<bean id="sqlSessionFactory"
@@ -71,18 +70,6 @@
 		<property name="url" value="${db.url}" />
 		<property name="username" value="${db.username}" />
 		<property name="password" value="${db.password}" />
-	</bean>
-
-	<bean id="hello2" class="myspring.di.xml.Hello">
-		<constructor-arg index="0" value="${myname}" />
-		<constructor-arg index="1" ref="${myprinter}" />
-		<property name="names">
-			<list>
-				<value>${value1}</value>
-				<value>${value2}</value>
-				<value>${value3}</value>
-			</list>
-		</property>
 	</bean>
 
 	<bean id="hello" class="myspring.di.xml.Hello">
