@@ -1,4 +1,4 @@
-# 25강 | Restful 웹서비스 어플리케이션 작성 (1)
+# 25강 | RESTful 웹서비스 어플리케이션 작성 (1)
 
 ## RESTful Controller
 
