@@ -40,4 +40,7 @@
 * 21강 | [Spring MVC 웹어플리케이션 작성 (1)](./Lecture%20Note/Lec-21-Spring%20MVC%20웹애플리케이션%20작성%20(1).md)
 * 22강 | Spring MVC 웹어플리케이션 작성 (2)
 * 23강 | Spring MVC 웹어플리케이션 작성 (3)
+* 24강 | [RESTful 웹서비스 개요 및 환경설정](./Lecture%20Note/Lec-24-Restful%20웹서비스%20개요%20및%20환경설정.md)
+* 25강 | [Restful 웹서비스 어플리케이션 작성 (1)](./Lecture%20Note/Lec-25-Restful%20웹서비스%20어플리케이션%20작성%20(1).md)
+
 
