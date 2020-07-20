@@ -42,5 +42,6 @@
 * 23강 | Spring MVC 웹어플리케이션 작성 (3)
 * 24강 | [RESTful 웹서비스 개요 및 환경설정](./Lecture%20Note/Lec-24-RESTful%20웹서비스%20개요%20및%20환경설정.md)
 * 25강 | [RESTful 웹서비스 어플리케이션 작성 (1)](./Lecture%20Note/Lec-25-RESTful%20웹서비스%20어플리케이션%20작성%20(1).md)
-
+* 26강 | [RESTful 웹서비스 어플리케이션 작성 (2)](./Lecture%20Note/Lec-26-RESTful%20웹서비스%20어플리케이션%20작성%20(2).md)
+* 27강 | RESTful 웹서비스 어플리케이션 작성 (3)
 
