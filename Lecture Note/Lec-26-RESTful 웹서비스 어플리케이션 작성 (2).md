@@ -1,4 +1,4 @@
-# 26강 | Ajax와 jQuery 개요
+# 26강 | RESTful 웹서비스 어플리케이션 작성 (2)
 
 ## Ajax
 Asynchronous Javascript and Xml
