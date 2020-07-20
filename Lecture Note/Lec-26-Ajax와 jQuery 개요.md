@@ -30,5 +30,4 @@ $(function(){
 * CSS 조작
 * Event 처리
 * Ajax 처리
-0
 
