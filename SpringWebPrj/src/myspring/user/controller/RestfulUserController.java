@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import myspring.user.service.UserService;
 import myspring.user.vo.UserVO;
+import myspring.user.vo.UserVOXML;
 
 @Controller
 public class RestfulUserController {
@@ -70,5 +71,14 @@ public class RestfulUserController {
 		Map<String, Object> result = new HashMap<String, Object>();
 		result.put("result", Boolean.TRUE);
 		return result;
+	}
+	
+	@RequestMapping(value="/usersXml",
+			method=RequestMethod.GET)
+	@ResponseBody
+	public UserVOXML getUserListXml() {
+		List<UserVO> list = userService.getUserList();
+		UserVOXML xml = new UserVOXML("success", list);
+		return xml;
 	}
 }
