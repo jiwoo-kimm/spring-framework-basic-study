@@ -44,4 +44,4 @@
 * 25강 | [RESTful 웹서비스 어플리케이션 작성 (1)](./Lecture%20Note/Lec-25-RESTful%20웹서비스%20어플리케이션%20작성%20(1).md)
 * 26강 | [RESTful 웹서비스 어플리케이션 작성 (2)](./Lecture%20Note/Lec-26-RESTful%20웹서비스%20어플리케이션%20작성%20(2).md)
 * 27강 | RESTful 웹서비스 어플리케이션 작성 (3)
-
+* 28강 | [RESTful 웹서비스 어플리케이션 작성 (4)](./Lecture%20Note/Lec-28-RESTful%20웹서비스%20어플리케이션%20작성%20(4).md)
